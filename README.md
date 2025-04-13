@@ -1,11 +1,11 @@
-# Monster Survivors - Online Game Platform
+# Bubble Shooter Game
 
-A modern gaming platform featuring classic HTML5 games. Currently hosting Bubble Shooter and more games coming soon!
+A modern HTML5 Bubble Shooter game with classic gameplay and modern design. Match and pop colorful bubbles in this addictive arcade game!
 
 ## Features
 
 - Responsive design for both desktop and mobile
-- Classic HTML5 games
+- Classic bubble shooting gameplay
 - Modern UI with Apple-inspired design
 - SEO optimized structure
 - Fast loading and performance
@@ -21,12 +21,12 @@ A modern gaming platform featuring classic HTML5 games. Currently hosting Bubble
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/monster-survivors.git
+git clone https://github.com/yourusername/bubble-shooter-game.git
 ```
 
 2. Open index.html in your browser
 ```bash
-cd monster-survivors
+cd bubble-shooter-game
 python -m http.server 8000
 ```
 
@@ -34,7 +34,7 @@ python -m http.server 8000
 
 ## Live Demo
 
-Visit [MonsterSurvivors.com](https://monstersurvivors.com) to see the live site.
+Visit our [Bubble Shooter Game](https://bubble-shooter-game.vercel.app) to play online!
 
 ## Contributing
 
