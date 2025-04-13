@@ -9,7 +9,12 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/index.html"
+      "dest": "/index.html",
+      "headers": {
+        "Content-Security-Policy": "frame-src 'self' https://html5.gamemonetize.co/ https://*.gamemonetize.co/;",
+        "X-Frame-Options": "ALLOW-FROM https://html5.gamemonetize.co/",
+        "Access-Control-Allow-Origin": "*"
+      }
     }
   ]
 } 
